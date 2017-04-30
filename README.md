@@ -1,2 +1,2 @@
 # hello-world
-Learing GitHub
+Learning GitHub isn't complicated
